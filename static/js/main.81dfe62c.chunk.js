@@ -1,2 +1,0 @@
-(this.webpackJsonppawsfitness=this.webpackJsonppawsfitness||[]).push([[0],{10:function(s,e,t){"use strict";t.r(e);t(1);var n=t(3),c=t.n(n),i=(t(8),t(0));var r=function(){return Object(i.jsx)("div",{className:"App",children:Object(i.jsx)("h1",{children:"Paw's Fitness Website"})})};c.a.render(Object(i.jsx)(r,{}),document.getElementById("root"))},8:function(s,e,t){}},[[10,1,2]]]);
-//# sourceMappingURL=main.81dfe62c.chunk.js.map
