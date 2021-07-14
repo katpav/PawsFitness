@@ -29,7 +29,7 @@ function Navbar() {
     <>
       <nav className="navbar">
         <div className="navbar-container">
-          <Link to="/home" className="navbar-logo">
+          <Link to="/pawsfitness/home" className="navbar-logo">
             <IoBarbellOutline />
           </Link>
           <div className="menu-icon" onClick={handleClick}>
@@ -37,27 +37,27 @@ function Navbar() {
           </div>
           <ul className={click ? "nav-menu active" : "nav-menu"}>
             <li className="nav-item">
-              <Link to="/home" className="nav-links" onClick={closeMobileMenu}>
+              <Link to="/pawsfitness/home" className="nav-links" onClick={closeMobileMenu}>
                 Home
               </Link>
             </li>
             <li className="nav-item">
-              <Link to="/training_programs" className="nav-links" onClick={closeMobileMenu}>
+              <Link to="/pawsfitness/training_programs" className="nav-links" onClick={closeMobileMenu}>
                 Training Programs
               </Link>
             </li>
             <li className="nav-item">
-              <Link to="/nutrition_plan" className="nav-links" onClick={closeMobileMenu}>
+              <Link to="/pawsfitness/nutrition_plan" className="nav-links" onClick={closeMobileMenu}>
                 Nutrition Plan
               </Link>
             </li>
             <li className="nav-item">
-              <Link to="/contact" className="nav-links" onClick={closeMobileMenu}>
+              <Link to="/pawsfitness/contact" className="nav-links" onClick={closeMobileMenu}>
                 Contact
               </Link>
             </li>
             <li className="nav-item">
-              <Link to="/register" className="nav-links-mobile" onClick={closeMobileMenu}>
+              <Link to="/pawsfitness/register" className="nav-links-mobile" onClick={closeMobileMenu}>
                 Register
               </Link>
             </li>
