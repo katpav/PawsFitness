@@ -6,7 +6,7 @@ import './BannerSection.css'
 function BannerSection() {
   return (
     <div className="banner-container">
-      <h1>Welcome to Paw's Fitness</h1>
+      <h1>Welcome to PBracken's Fitness</h1>
       <p>Let's get it started</p>
       <div className="banner-btn">
         <Button 

@@ -6,9 +6,10 @@
 }
 
 .home,
-.services,
-.products,
-.sign-up {
+.training,
+.nutrition,
+.contact,
+.register {
   display: flex;
   height: 100vh;
   align-items: center;
@@ -16,14 +17,20 @@
   font-size: 3rem;
 }
 
-.services {
+.training {
   background-color: blueviolet;
   color: #fff;
   font-size: 100px;
 }
 
-.products {
+.nutrition {
   background-color: rgb(28, 35, 136);
+  color: #fff;
+  font-size: 100px;
+}
+
+.contact {
+  background-color: rgb(214, 77, 111);
   color: #fff;
   font-size: 100px;
 }
