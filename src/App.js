@@ -11,7 +11,7 @@ import Register from './components/pages/Register';
 function App() {
   return (
     <>
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <Navbar />
         <Switch>
           <Route exact path="/" component={Home} />
