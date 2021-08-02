@@ -7,6 +7,7 @@ import Training from './components/pages/Training';
 import Nutrition from './components/pages/Nutrition';
 import Contact from './components/pages/Contact';
 import Register from './components/pages/Register';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
           <Route path="/contact" component={Contact} />
           <Route path="/register" component={Register} />
         </Switch>
+        <Footer />
       </Router>
     </>
   );
