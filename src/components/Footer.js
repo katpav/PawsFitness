@@ -19,7 +19,7 @@ function Footer() {
         </div>
       </div>
       <div className="copyright">
-        <p>Copyrights</p>
+        <p>Copyright &copy; 2021 Kate Pavlenko</p>
       </div>
     </div>
   )

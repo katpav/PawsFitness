@@ -15,7 +15,7 @@ function App() {
       <Router basename={process.env.PUBLIC_URL}>
         <Navbar />
         <Switch>
-          <Route exact path="/" component={Home} />
+          <Route exact path="/home" component={Home} />
           <Route path="/training" component={Training} />
           <Route path="/nutrition" component={Nutrition} />
           <Route path="/contact" component={Contact} />
