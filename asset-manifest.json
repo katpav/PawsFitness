@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/pawsfitness/static/css/main.57af3eff.chunk.css",
-    "main.js": "/pawsfitness/static/js/main.084577d6.chunk.js",
-    "main.js.map": "/pawsfitness/static/js/main.084577d6.chunk.js.map",
+    "main.js": "/pawsfitness/static/js/main.5184053c.chunk.js",
+    "main.js.map": "/pawsfitness/static/js/main.5184053c.chunk.js.map",
     "runtime-main.js": "/pawsfitness/static/js/runtime-main.c62b0438.js",
     "runtime-main.js.map": "/pawsfitness/static/js/runtime-main.c62b0438.js.map",
-    "static/js/2.cda1213c.chunk.js": "/pawsfitness/static/js/2.cda1213c.chunk.js",
-    "static/js/2.cda1213c.chunk.js.map": "/pawsfitness/static/js/2.cda1213c.chunk.js.map",
+    "static/js/2.23d2adb1.chunk.js": "/pawsfitness/static/js/2.23d2adb1.chunk.js",
+    "static/js/2.23d2adb1.chunk.js.map": "/pawsfitness/static/js/2.23d2adb1.chunk.js.map",
     "index.html": "/pawsfitness/index.html",
     "static/css/main.57af3eff.chunk.css.map": "/pawsfitness/static/css/main.57af3eff.chunk.css.map",
-    "static/js/2.cda1213c.chunk.js.LICENSE.txt": "/pawsfitness/static/js/2.cda1213c.chunk.js.LICENSE.txt",
+    "static/js/2.23d2adb1.chunk.js.LICENSE.txt": "/pawsfitness/static/js/2.23d2adb1.chunk.js.LICENSE.txt",
     "static/media/BannerSection.css": "/pawsfitness/static/media/anastase-maragos-9dzWZQWZMdE-unsplash.c9e0b54b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c62b0438.js",
-    "static/js/2.cda1213c.chunk.js",
+    "static/js/2.23d2adb1.chunk.js",
     "static/css/main.57af3eff.chunk.css",
-    "static/js/main.084577d6.chunk.js"
+    "static/js/main.5184053c.chunk.js"
   ]
 }
