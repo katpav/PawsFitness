@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pawsfitness/static/css/main.887bf550.chunk.css",
-    "main.js": "/pawsfitness/static/js/main.e46dcefa.chunk.js",
-    "main.js.map": "/pawsfitness/static/js/main.e46dcefa.chunk.js.map",
+    "main.js": "/pawsfitness/static/js/main.da25c6fa.chunk.js",
+    "main.js.map": "/pawsfitness/static/js/main.da25c6fa.chunk.js.map",
     "runtime-main.js": "/pawsfitness/static/js/runtime-main.c62b0438.js",
     "runtime-main.js.map": "/pawsfitness/static/js/runtime-main.c62b0438.js.map",
     "static/js/2.23d2adb1.chunk.js": "/pawsfitness/static/js/2.23d2adb1.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.c62b0438.js",
     "static/js/2.23d2adb1.chunk.js",
     "static/css/main.887bf550.chunk.css",
-    "static/js/main.e46dcefa.chunk.js"
+    "static/js/main.da25c6fa.chunk.js"
   ]
 }
